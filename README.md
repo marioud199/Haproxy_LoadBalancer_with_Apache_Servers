@@ -1,6 +1,6 @@
 # High-Availability-Web-Server-Setup-with-HAProxy-Load-Balancer
 
-      Design and implement a high availability web server infrastructure using two identical Apache servers and an HAProxy container. The HAProxy container will be     responsible for distributing incoming HTTP traffic to the Apache servers in a round-robin fashion, ensuring efficient load balancing and high availability.
+  Design and implement a high availability web server infrastructure using two identical Apache servers and an HAProxy container. The HAProxy container will be     responsible for distributing incoming HTTP traffic to the Apache servers in a round-robin fashion, ensuring efficient load balancing and high availability.
 
 
 Project Components:
